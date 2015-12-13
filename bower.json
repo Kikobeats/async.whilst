@@ -1,0 +1,32 @@
+{
+  "name": "async.whilst",
+  "description": "Call a function and stop under condition or error occurs.",
+  "homepage": "https://github.com/Kikobeats/async.whilst",
+  "version": "0.0.0",
+  "main": "./dist/async.whilst.js",
+  "authors": [
+    {
+      "email": "josefrancisco.verdu@gmail.com",
+      "name": "Kiko Beats",
+      "url": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/async.whilst",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/async.whilst/issues"
+  },
+  "keywords": [
+    "async",
+    "module",
+    "while",
+    "whilst"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
