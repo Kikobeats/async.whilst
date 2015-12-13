@@ -7,7 +7,7 @@
 [![NPM Status](http://img.shields.io/npm/dm/async.whilst.svg?style=flat-square)](https://www.npmjs.org/package/async.whilst)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
-> Call a function and stop under condition or error occurs.
+> Repeatedly call `fn`, while `test returns true. Calls `callback` when stopped, or an error occurs.
 
 ## Install
 
