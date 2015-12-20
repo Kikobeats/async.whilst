@@ -10,7 +10,7 @@
   "version": "0.4.2",
   "license": "MIT",
   "dependencies": {
-    "async.util.noop": "0.4.2",
+    "async.util.noop": "0.4.3",
     "async.util.restparam": "0.4.2"
   },
   "keywords": [
