@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "async.util.noop": "0.5.0",
-    "async.util.restparam": "0.5.0"
+    "async.util.restparam": "0.5.1"
   },
   "keywords": [
     "async",
